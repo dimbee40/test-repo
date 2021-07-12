@@ -56,7 +56,7 @@ export default function WeatherSearch() {
       <p>{description}</p>
       <p>{icon}</p>
       <p>
-        Coded by <a href="https://github.com/dimbee40/wk4-HW-DW">Deb</a>
+        Coded by <a href="https://github.com/dimbee40/test-repo">Deb</a>
       </p>
     </div>
   );
